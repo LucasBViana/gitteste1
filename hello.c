@@ -6,4 +6,3 @@ int main(){
   printf("O resultado é: %d", ret);
   return 0;
 }
-EU AMO COCADA 
